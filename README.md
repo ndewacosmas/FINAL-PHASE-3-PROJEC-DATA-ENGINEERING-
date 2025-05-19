@@ -7,11 +7,16 @@ Batch Data Processing is the way of processing huge amount of the historical dat
 The main objective of this projects is to structure batch data processing application system in order tosolve the problem of Processing huge amount of which are produced into different area and sources and the methodology used to conduct this project are Mixed methodology it mean that under this project methodology used are both qualitative and quantitative and source of data collected under this project are secondary source of data which are found under Kaggle.com references https://www.kaggle.com/datasets/spscientist/students-performance-in-exams/data.
 
 
-The software which are used to implement this projects are https://github.com/ndewacosmas/PHASE-ONE-SECOND-ATTEMPT-/blob/main/README.md
-                                                          https://github.com/ndewacosmas/ETL-JOB-DETAILS-DEVELOPMENT/blob/main/README.md
-                                                          https://github.com/ndewacosmas/ML-JOB-DETAILS-DEVELOPMENT-PHASE-SECOND-ATTEMPT-/blob/main/README.md
-                                                          https://github.com/ndewacosmas/Visualization-Job-Details-Development/blob/main/README.md
-                                                          https://github.com/ndewacosmas/Development-phase-Data-Engineering-second-attempt-/blob/main/README.md
+The software which are used to implement this projects are
+https://github.com/ndewacosmas/PHASE-ONE-SECOND-ATTEMPT-/blob/main/README.md
+                                                        
+https://github.com/ndewacosmas/ETL-JOB-DETAILS-DEVELOPMENT/blob/main/README.md
+                                                          
+https://github.com/ndewacosmas/ML-JOB-DETAILS-DEVELOPMENT-PHASE-SECOND-ATTEMPT-/blob/main/README.md
+                                                          
+https://github.com/ndewacosmas/Visualization-Job-Details-Development/blob/main/README.md
+                                                          
+https://github.com/ndewacosmas/Development-phase-Data-Engineering-second-attempt-/blob/main/README.md
                                                           
 
 The concept of this projects are correspond with the results which are obtained, the result are achived according this  projects but this project it fce some challenges due the factor of how to prepare Machine learning was out of the scope of the works.but out of that the result which are obtained are correspond with the goal of the projects.
