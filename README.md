@@ -8,6 +8,7 @@ The main objective of this projects is to structure batch data processing applic
 
 
 The software which are used to implement this projects are
+
 https://github.com/ndewacosmas/PHASE-ONE-SECOND-ATTEMPT-/blob/main/README.md
                                                         
 https://github.com/ndewacosmas/ETL-JOB-DETAILS-DEVELOPMENT/blob/main/README.md
